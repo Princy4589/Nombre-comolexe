@@ -1,0 +1,13 @@
+C:\Users\Princy\Desktop\nombre complexe\bin\Debug\netcoreapp3.1\nombre complexe.exe
+C:\Users\Princy\Desktop\nombre complexe\bin\Debug\netcoreapp3.1\nombre complexe.deps.json
+C:\Users\Princy\Desktop\nombre complexe\bin\Debug\netcoreapp3.1\nombre complexe.runtimeconfig.json
+C:\Users\Princy\Desktop\nombre complexe\bin\Debug\netcoreapp3.1\nombre complexe.runtimeconfig.dev.json
+C:\Users\Princy\Desktop\nombre complexe\bin\Debug\netcoreapp3.1\nombre complexe.dll
+C:\Users\Princy\Desktop\nombre complexe\bin\Debug\netcoreapp3.1\nombre complexe.pdb
+C:\Users\Princy\Desktop\nombre complexe\obj\Debug\netcoreapp3.1\nombre complexe.csprojAssemblyReference.cache
+C:\Users\Princy\Desktop\nombre complexe\obj\Debug\netcoreapp3.1\nombre complexe.AssemblyInfoInputs.cache
+C:\Users\Princy\Desktop\nombre complexe\obj\Debug\netcoreapp3.1\nombre complexe.AssemblyInfo.cs
+C:\Users\Princy\Desktop\nombre complexe\obj\Debug\netcoreapp3.1\nombre complexe.csproj.CoreCompileInputs.cache
+C:\Users\Princy\Desktop\nombre complexe\obj\Debug\netcoreapp3.1\nombre complexe.dll
+C:\Users\Princy\Desktop\nombre complexe\obj\Debug\netcoreapp3.1\nombre complexe.pdb
+C:\Users\Princy\Desktop\nombre complexe\obj\Debug\netcoreapp3.1\nombre complexe.genruntimeconfig.cache

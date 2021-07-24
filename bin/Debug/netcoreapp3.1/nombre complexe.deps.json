@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "nombre complexe/1.0.0": {
+        "runtime": {
+          "nombre complexe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nombre complexe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
